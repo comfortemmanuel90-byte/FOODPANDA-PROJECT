@@ -39,5 +39,8 @@ Order Date
 Delivery Time
 Order Value
 
-## 📸 Dashboard review
-![Food Panda Dashboard](my food panda dashboard. png)
+![189234](https://github.com/user-attachments/assets/d5886a1d-f64b-40d9-af4e-fcb3e089c2a8)
+
+Comfort Igoche
+Aspiring Data Analyst
+https://www.linkedin.com/in/comfort-igoche-318218247
