@@ -1,6 +1,6 @@
 ## 🍔 Food Panda Data Analysis Project ##
 
- ##📌 Project Overview ##
+ ## 📌 Project Overview ##
 This project analyzes Food Panda data to uncover insights into customer behavior, restaurant performance, and delivery trends. The analysis is visualized using Power BI to support data-driven decision-making.
 
 ## 🎯 Objectives ##
@@ -30,6 +30,7 @@ Customer contribution to revenue
 Download the .pbix file
 Open in Power BI Desktop
 Explore the interactive dashboard 
+
 ![189234](https://github.com/user-attachments/assets/d5886a1d-f64b-40d9-af4e-fcb3e089c2a8)
 
 
