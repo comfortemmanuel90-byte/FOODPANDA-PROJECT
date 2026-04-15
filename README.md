@@ -9,7 +9,7 @@ This project analyzes Food Panda data to uncover insights into customer behavior
 - Analyze delivery performance
 - Provide actionable business insights
 
-## 🛠️ Tools & Technologies##
+## 🛠️ Tools & Technologies ##
 - Power BI (Data visualization & dashboard creation)
 - Excel / CSV (Data source)
 
