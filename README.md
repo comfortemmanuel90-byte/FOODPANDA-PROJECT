@@ -6,7 +6,7 @@ This project analyzes Food Panda data to uncover insights into customer behavior
 ## 🎯 Objectives ##
 - Understand customer ordering patterns
 - Identify top-performing restaurants and cuisines
-  Analyze delivery performance
+- Analyze delivery performance
 - Provide actionable business insights
 
 ## 🛠️ Tools & Technologies##
