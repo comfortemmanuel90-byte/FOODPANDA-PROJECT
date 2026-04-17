@@ -63,11 +63,11 @@ During EDA, the following steps were performed:
 * a clear view of revenue distribution
 
 ## Recommendations ##
-Optimize delivery operations during peak hours
-Focus marketing efforts on high-performing locations
-Improve delivery time to enhance customer satisfaction
-Introduce promotions during low-demand periods
-Leverage customer behavior insights for targeted campaigns
+* Optimize delivery operations during peak hours
+* Focus marketing efforts on high-performing locations
+* Improve delivery time to enhance customer satisfaction
+* Introduce promotions during low-demand periods
+* Leverage customer behavior insights for targeted campaigns
 
 ![189234](https://github.com/user-attachments/assets/d5886a1d-f64b-40d9-af4e-fcb3e089c2a8)
 
