@@ -68,8 +68,22 @@ During EDA, the following steps were performed:
 * Improve delivery time to enhance customer satisfaction
 * Introduce promotions during low-demand periods
 * Leverage customer behavior insights for targeted campaigns
+* 
+  ## Revenue Dashboard ##
+This Revenue Dashboard was created to provide a clear and interactive overview of business revenue performance.
+The dashboard helps track key financial metrics, identify sales trends, and support data-driven decision-making.
 
 ![189234](https://github.com/user-attachments/assets/d5886a1d-f64b-40d9-af4e-fcb3e089c2a8)
+
+## Customer Dashboard ##
+This Customer Dashboard was developed to provide a comprehensive view of customer data, behavior, and business performance.
+It helps track customer trends, measure engagement, and support better customer-focused decisions.
+
+<img width="585" height="473" alt="Screenshot 2026-04-28 102601" src="https://github.com/user-attachments/assets/988dd830-add7-483b-872c-d41b69227f4d" />
+
+
+
+
 
 
 
